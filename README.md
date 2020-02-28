@@ -1,2 +1,5 @@
 # NLP-disaster-twitts
-Real or Fake tried using logistic regression and multinomial naive bayes.
+Real or Fake
+count vectorizer and TFIDF
+logistic regression
+Multinomial naive bayes
